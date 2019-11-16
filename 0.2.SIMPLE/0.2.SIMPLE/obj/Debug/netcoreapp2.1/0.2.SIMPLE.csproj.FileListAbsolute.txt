@@ -1,0 +1,10 @@
+C:\Users\keyse\source\repos\Epam\0.2.SIMPLE\0.2.SIMPLE\bin\Debug\netcoreapp2.1\0.2.SIMPLE.deps.json
+C:\Users\keyse\source\repos\Epam\0.2.SIMPLE\0.2.SIMPLE\bin\Debug\netcoreapp2.1\0.2.SIMPLE.runtimeconfig.json
+C:\Users\keyse\source\repos\Epam\0.2.SIMPLE\0.2.SIMPLE\bin\Debug\netcoreapp2.1\0.2.SIMPLE.runtimeconfig.dev.json
+C:\Users\keyse\source\repos\Epam\0.2.SIMPLE\0.2.SIMPLE\bin\Debug\netcoreapp2.1\0.2.SIMPLE.dll
+C:\Users\keyse\source\repos\Epam\0.2.SIMPLE\0.2.SIMPLE\bin\Debug\netcoreapp2.1\0.2.SIMPLE.pdb
+C:\Users\keyse\source\repos\Epam\0.2.SIMPLE\0.2.SIMPLE\obj\Debug\netcoreapp2.1\0.2.SIMPLE.csproj.CoreCompileInputs.cache
+C:\Users\keyse\source\repos\Epam\0.2.SIMPLE\0.2.SIMPLE\obj\Debug\netcoreapp2.1\0.2.SIMPLE.AssemblyInfoInputs.cache
+C:\Users\keyse\source\repos\Epam\0.2.SIMPLE\0.2.SIMPLE\obj\Debug\netcoreapp2.1\0.2.SIMPLE.AssemblyInfo.cs
+C:\Users\keyse\source\repos\Epam\0.2.SIMPLE\0.2.SIMPLE\obj\Debug\netcoreapp2.1\0.2.SIMPLE.dll
+C:\Users\keyse\source\repos\Epam\0.2.SIMPLE\0.2.SIMPLE\obj\Debug\netcoreapp2.1\0.2.SIMPLE.pdb
