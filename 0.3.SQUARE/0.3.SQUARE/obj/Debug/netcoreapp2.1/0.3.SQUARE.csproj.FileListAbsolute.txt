@@ -1,0 +1,11 @@
+C:\Users\keyse\source\repos\Epam\0.3.SQUARE\0.3.SQUARE\bin\Debug\netcoreapp2.1\0.3.SQUARE.deps.json
+C:\Users\keyse\source\repos\Epam\0.3.SQUARE\0.3.SQUARE\bin\Debug\netcoreapp2.1\0.3.SQUARE.runtimeconfig.json
+C:\Users\keyse\source\repos\Epam\0.3.SQUARE\0.3.SQUARE\bin\Debug\netcoreapp2.1\0.3.SQUARE.runtimeconfig.dev.json
+C:\Users\keyse\source\repos\Epam\0.3.SQUARE\0.3.SQUARE\bin\Debug\netcoreapp2.1\0.3.SQUARE.dll
+C:\Users\keyse\source\repos\Epam\0.3.SQUARE\0.3.SQUARE\bin\Debug\netcoreapp2.1\0.3.SQUARE.pdb
+C:\Users\keyse\source\repos\Epam\0.3.SQUARE\0.3.SQUARE\obj\Debug\netcoreapp2.1\0.3.SQUARE.csprojAssemblyReference.cache
+C:\Users\keyse\source\repos\Epam\0.3.SQUARE\0.3.SQUARE\obj\Debug\netcoreapp2.1\0.3.SQUARE.csproj.CoreCompileInputs.cache
+C:\Users\keyse\source\repos\Epam\0.3.SQUARE\0.3.SQUARE\obj\Debug\netcoreapp2.1\0.3.SQUARE.AssemblyInfoInputs.cache
+C:\Users\keyse\source\repos\Epam\0.3.SQUARE\0.3.SQUARE\obj\Debug\netcoreapp2.1\0.3.SQUARE.AssemblyInfo.cs
+C:\Users\keyse\source\repos\Epam\0.3.SQUARE\0.3.SQUARE\obj\Debug\netcoreapp2.1\0.3.SQUARE.dll
+C:\Users\keyse\source\repos\Epam\0.3.SQUARE\0.3.SQUARE\obj\Debug\netcoreapp2.1\0.3.SQUARE.pdb
