@@ -1,0 +1,11 @@
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.5. SUM OF NUMBERS\1.5. SUM OF NUMBERS\bin\Debug\netcoreapp2.1\1.5. SUM OF NUMBERS.deps.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.5. SUM OF NUMBERS\1.5. SUM OF NUMBERS\bin\Debug\netcoreapp2.1\1.5. SUM OF NUMBERS.runtimeconfig.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.5. SUM OF NUMBERS\1.5. SUM OF NUMBERS\bin\Debug\netcoreapp2.1\1.5. SUM OF NUMBERS.runtimeconfig.dev.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.5. SUM OF NUMBERS\1.5. SUM OF NUMBERS\bin\Debug\netcoreapp2.1\1.5. SUM OF NUMBERS.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.5. SUM OF NUMBERS\1.5. SUM OF NUMBERS\bin\Debug\netcoreapp2.1\1.5. SUM OF NUMBERS.pdb
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.5. SUM OF NUMBERS\1.5. SUM OF NUMBERS\obj\Debug\netcoreapp2.1\1.5. SUM OF NUMBERS.csprojAssemblyReference.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.5. SUM OF NUMBERS\1.5. SUM OF NUMBERS\obj\Debug\netcoreapp2.1\1.5. SUM OF NUMBERS.csproj.CoreCompileInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.5. SUM OF NUMBERS\1.5. SUM OF NUMBERS\obj\Debug\netcoreapp2.1\1.5. SUM OF NUMBERS.AssemblyInfoInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.5. SUM OF NUMBERS\1.5. SUM OF NUMBERS\obj\Debug\netcoreapp2.1\1.5. SUM OF NUMBERS.AssemblyInfo.cs
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.5. SUM OF NUMBERS\1.5. SUM OF NUMBERS\obj\Debug\netcoreapp2.1\1.5. SUM OF NUMBERS.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.5. SUM OF NUMBERS\1.5. SUM OF NUMBERS\obj\Debug\netcoreapp2.1\1.5. SUM OF NUMBERS.pdb
