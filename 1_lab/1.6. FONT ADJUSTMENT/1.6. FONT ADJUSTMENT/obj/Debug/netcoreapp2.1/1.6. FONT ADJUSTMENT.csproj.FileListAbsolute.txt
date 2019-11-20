@@ -1,0 +1,11 @@
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.6. FONT ADJUSTMENT\1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp2.1\1.6. FONT ADJUSTMENT.deps.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.6. FONT ADJUSTMENT\1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp2.1\1.6. FONT ADJUSTMENT.runtimeconfig.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.6. FONT ADJUSTMENT\1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp2.1\1.6. FONT ADJUSTMENT.runtimeconfig.dev.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.6. FONT ADJUSTMENT\1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp2.1\1.6. FONT ADJUSTMENT.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.6. FONT ADJUSTMENT\1.6. FONT ADJUSTMENT\bin\Debug\netcoreapp2.1\1.6. FONT ADJUSTMENT.pdb
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.6. FONT ADJUSTMENT\1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp2.1\1.6. FONT ADJUSTMENT.csprojAssemblyReference.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.6. FONT ADJUSTMENT\1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp2.1\1.6. FONT ADJUSTMENT.csproj.CoreCompileInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.6. FONT ADJUSTMENT\1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp2.1\1.6. FONT ADJUSTMENT.AssemblyInfoInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.6. FONT ADJUSTMENT\1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp2.1\1.6. FONT ADJUSTMENT.AssemblyInfo.cs
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.6. FONT ADJUSTMENT\1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp2.1\1.6. FONT ADJUSTMENT.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.6. FONT ADJUSTMENT\1.6. FONT ADJUSTMENT\obj\Debug\netcoreapp2.1\1.6. FONT ADJUSTMENT.pdb
