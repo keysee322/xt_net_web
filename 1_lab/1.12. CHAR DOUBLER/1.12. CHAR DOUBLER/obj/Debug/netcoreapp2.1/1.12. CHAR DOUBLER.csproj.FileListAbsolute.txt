@@ -1,0 +1,11 @@
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.12. CHAR DOUBLER\1.12. CHAR DOUBLER\bin\Debug\netcoreapp2.1\1.12. CHAR DOUBLER.deps.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.12. CHAR DOUBLER\1.12. CHAR DOUBLER\bin\Debug\netcoreapp2.1\1.12. CHAR DOUBLER.runtimeconfig.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.12. CHAR DOUBLER\1.12. CHAR DOUBLER\bin\Debug\netcoreapp2.1\1.12. CHAR DOUBLER.runtimeconfig.dev.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.12. CHAR DOUBLER\1.12. CHAR DOUBLER\bin\Debug\netcoreapp2.1\1.12. CHAR DOUBLER.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.12. CHAR DOUBLER\1.12. CHAR DOUBLER\bin\Debug\netcoreapp2.1\1.12. CHAR DOUBLER.pdb
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.12. CHAR DOUBLER\1.12. CHAR DOUBLER\obj\Debug\netcoreapp2.1\1.12. CHAR DOUBLER.csprojAssemblyReference.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.12. CHAR DOUBLER\1.12. CHAR DOUBLER\obj\Debug\netcoreapp2.1\1.12. CHAR DOUBLER.csproj.CoreCompileInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.12. CHAR DOUBLER\1.12. CHAR DOUBLER\obj\Debug\netcoreapp2.1\1.12. CHAR DOUBLER.AssemblyInfoInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.12. CHAR DOUBLER\1.12. CHAR DOUBLER\obj\Debug\netcoreapp2.1\1.12. CHAR DOUBLER.AssemblyInfo.cs
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.12. CHAR DOUBLER\1.12. CHAR DOUBLER\obj\Debug\netcoreapp2.1\1.12. CHAR DOUBLER.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.12. CHAR DOUBLER\1.12. CHAR DOUBLER\obj\Debug\netcoreapp2.1\1.12. CHAR DOUBLER.pdb

@@ -1,0 +1,11 @@
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.8. NO POSITIVE\1.8. NO POSITIVE\bin\Debug\netcoreapp2.1\1.8. NO POSITIVE.deps.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.8. NO POSITIVE\1.8. NO POSITIVE\bin\Debug\netcoreapp2.1\1.8. NO POSITIVE.runtimeconfig.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.8. NO POSITIVE\1.8. NO POSITIVE\bin\Debug\netcoreapp2.1\1.8. NO POSITIVE.runtimeconfig.dev.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.8. NO POSITIVE\1.8. NO POSITIVE\bin\Debug\netcoreapp2.1\1.8. NO POSITIVE.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.8. NO POSITIVE\1.8. NO POSITIVE\bin\Debug\netcoreapp2.1\1.8. NO POSITIVE.pdb
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.8. NO POSITIVE\1.8. NO POSITIVE\obj\Debug\netcoreapp2.1\1.8. NO POSITIVE.csprojAssemblyReference.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.8. NO POSITIVE\1.8. NO POSITIVE\obj\Debug\netcoreapp2.1\1.8. NO POSITIVE.csproj.CoreCompileInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.8. NO POSITIVE\1.8. NO POSITIVE\obj\Debug\netcoreapp2.1\1.8. NO POSITIVE.AssemblyInfoInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.8. NO POSITIVE\1.8. NO POSITIVE\obj\Debug\netcoreapp2.1\1.8. NO POSITIVE.AssemblyInfo.cs
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.8. NO POSITIVE\1.8. NO POSITIVE\obj\Debug\netcoreapp2.1\1.8. NO POSITIVE.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.8. NO POSITIVE\1.8. NO POSITIVE\obj\Debug\netcoreapp2.1\1.8. NO POSITIVE.pdb

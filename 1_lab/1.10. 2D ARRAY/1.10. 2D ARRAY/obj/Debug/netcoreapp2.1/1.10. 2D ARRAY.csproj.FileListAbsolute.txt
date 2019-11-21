@@ -1,0 +1,10 @@
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.10. 2D ARRAY\1.10. 2D ARRAY\bin\Debug\netcoreapp2.1\1.10. 2D ARRAY.deps.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.10. 2D ARRAY\1.10. 2D ARRAY\bin\Debug\netcoreapp2.1\1.10. 2D ARRAY.runtimeconfig.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.10. 2D ARRAY\1.10. 2D ARRAY\bin\Debug\netcoreapp2.1\1.10. 2D ARRAY.runtimeconfig.dev.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.10. 2D ARRAY\1.10. 2D ARRAY\bin\Debug\netcoreapp2.1\1.10. 2D ARRAY.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.10. 2D ARRAY\1.10. 2D ARRAY\bin\Debug\netcoreapp2.1\1.10. 2D ARRAY.pdb
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.10. 2D ARRAY\1.10. 2D ARRAY\obj\Debug\netcoreapp2.1\1.10. 2D ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.10. 2D ARRAY\1.10. 2D ARRAY\obj\Debug\netcoreapp2.1\1.10. 2D ARRAY.AssemblyInfoInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.10. 2D ARRAY\1.10. 2D ARRAY\obj\Debug\netcoreapp2.1\1.10. 2D ARRAY.AssemblyInfo.cs
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.10. 2D ARRAY\1.10. 2D ARRAY\obj\Debug\netcoreapp2.1\1.10. 2D ARRAY.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\1.10. 2D ARRAY\1.10. 2D ARRAY\obj\Debug\netcoreapp2.1\1.10. 2D ARRAY.pdb

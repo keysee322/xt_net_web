@@ -1,0 +1,11 @@
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\11.String\11.String\bin\Debug\netcoreapp2.1\11.String.deps.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\11.String\11.String\bin\Debug\netcoreapp2.1\11.String.runtimeconfig.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\11.String\11.String\bin\Debug\netcoreapp2.1\11.String.runtimeconfig.dev.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\11.String\11.String\bin\Debug\netcoreapp2.1\11.String.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\11.String\11.String\bin\Debug\netcoreapp2.1\11.String.pdb
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\11.String\11.String\obj\Debug\netcoreapp2.1\11.String.csprojAssemblyReference.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\11.String\11.String\obj\Debug\netcoreapp2.1\11.String.csproj.CoreCompileInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\11.String\11.String\obj\Debug\netcoreapp2.1\11.String.AssemblyInfoInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\11.String\11.String\obj\Debug\netcoreapp2.1\11.String.AssemblyInfo.cs
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\11.String\11.String\obj\Debug\netcoreapp2.1\11.String.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\1_lab\11.String\11.String\obj\Debug\netcoreapp2.1\11.String.pdb
