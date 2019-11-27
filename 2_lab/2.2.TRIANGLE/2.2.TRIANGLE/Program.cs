@@ -58,10 +58,10 @@ namespace _2._2.TRIANGLE
             }
         }
         public double getArea 
-        {
+        {   
             get
             {
-                return 0;
+                return Math.Sqrt((getPerimert/2) * (getPerimert-A) * (getPerimert-B) * (getPerimert-C));
             }
         }
         public double getPerimert
@@ -97,7 +97,7 @@ namespace _2._2.TRIANGLE
             {
                 Console.WriteLine("Area of triangle is {0}", a1.getArea);
                 Console.WriteLine("Perimetr of triangle is {0}", a1.getPerimert);
-            }
+            } 
             else { Console.WriteLine("Your triangle don't exist =(");
             }
         }
