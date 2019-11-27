@@ -1,0 +1,11 @@
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.2.TRIANGLE\2.2.TRIANGLE\obj\Debug\netcoreapp2.1\2.2.TRIANGLE.csprojAssemblyReference.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.2.TRIANGLE\2.2.TRIANGLE\obj\Debug\netcoreapp2.1\2.2.TRIANGLE.csproj.CoreCompileInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.2.TRIANGLE\2.2.TRIANGLE\obj\Debug\netcoreapp2.1\2.2.TRIANGLE.AssemblyInfoInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.2.TRIANGLE\2.2.TRIANGLE\obj\Debug\netcoreapp2.1\2.2.TRIANGLE.AssemblyInfo.cs
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.2.TRIANGLE\2.2.TRIANGLE\bin\Debug\netcoreapp2.1\2.2.TRIANGLE.deps.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.2.TRIANGLE\2.2.TRIANGLE\bin\Debug\netcoreapp2.1\2.2.TRIANGLE.runtimeconfig.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.2.TRIANGLE\2.2.TRIANGLE\bin\Debug\netcoreapp2.1\2.2.TRIANGLE.runtimeconfig.dev.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.2.TRIANGLE\2.2.TRIANGLE\bin\Debug\netcoreapp2.1\2.2.TRIANGLE.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.2.TRIANGLE\2.2.TRIANGLE\bin\Debug\netcoreapp2.1\2.2.TRIANGLE.pdb
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.2.TRIANGLE\2.2.TRIANGLE\obj\Debug\netcoreapp2.1\2.2.TRIANGLE.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.2.TRIANGLE\2.2.TRIANGLE\obj\Debug\netcoreapp2.1\2.2.TRIANGLE.pdb

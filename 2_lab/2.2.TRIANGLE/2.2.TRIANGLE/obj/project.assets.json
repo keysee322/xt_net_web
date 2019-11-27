@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\keyse\\OneDrive\\Документы\\xt_net_web\\2_lab\\2.1.ROUND\\2.1.ROUND\\2.1.ROUND.csproj",
-      "projectName": "2.1.ROUND",
-      "projectPath": "C:\\Users\\keyse\\OneDrive\\Документы\\xt_net_web\\2_lab\\2.1.ROUND\\2.1.ROUND\\2.1.ROUND.csproj",
+      "projectUniqueName": "C:\\Users\\keyse\\OneDrive\\Документы\\xt_net_web\\2_lab\\2.2.TRIANGLE\\2.2.TRIANGLE\\2.2.TRIANGLE.csproj",
+      "projectName": "2.2.TRIANGLE",
+      "projectPath": "C:\\Users\\keyse\\OneDrive\\Документы\\xt_net_web\\2_lab\\2.2.TRIANGLE\\2.2.TRIANGLE\\2.2.TRIANGLE.csproj",
       "packagesPath": "C:\\Users\\keyse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\keyse\\OneDrive\\Документы\\xt_net_web\\2_lab\\2.1.ROUND\\2.1.ROUND\\obj\\",
+      "outputPath": "C:\\Users\\keyse\\OneDrive\\Документы\\xt_net_web\\2_lab\\2.2.TRIANGLE\\2.2.TRIANGLE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
