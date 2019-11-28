@@ -1,0 +1,11 @@
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.6.RING\2.6.RING\bin\Debug\netcoreapp2.1\2.6.RING.deps.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.6.RING\2.6.RING\bin\Debug\netcoreapp2.1\2.6.RING.runtimeconfig.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.6.RING\2.6.RING\bin\Debug\netcoreapp2.1\2.6.RING.runtimeconfig.dev.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.6.RING\2.6.RING\bin\Debug\netcoreapp2.1\2.6.RING.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.6.RING\2.6.RING\bin\Debug\netcoreapp2.1\2.6.RING.pdb
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.6.RING\2.6.RING\obj\Debug\netcoreapp2.1\2.6.RING.csprojAssemblyReference.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.6.RING\2.6.RING\obj\Debug\netcoreapp2.1\2.6.RING.csproj.CoreCompileInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.6.RING\2.6.RING\obj\Debug\netcoreapp2.1\2.6.RING.AssemblyInfoInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.6.RING\2.6.RING\obj\Debug\netcoreapp2.1\2.6.RING.AssemblyInfo.cs
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.6.RING\2.6.RING\obj\Debug\netcoreapp2.1\2.6.RING.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.6.RING\2.6.RING\obj\Debug\netcoreapp2.1\2.6.RING.pdb
