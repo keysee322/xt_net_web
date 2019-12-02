@@ -123,9 +123,9 @@ namespace _2._8.GAME
             Xb = 0;
             Yb = 0;
         }
-        public virtual void getBonus()
+        public virtual int getBonus(int n)
         {
-
+            return n;
         }
     }
 
@@ -182,23 +182,23 @@ namespace _2._8.GAME
                     Ym = value;
             }
         }
-        public virtual void getMonster()
+        public virtual int getMonster(int n)
         {
-
+            return n;
         }
     }
     class Wolf : Monster
     {
-        public int getMonster(int n)
+        public override int getMonster(int n)
         {
             Console.WriteLine("Oh no, it's a WOLF! Run away (you go for one point DOWN)");
-            return n--;
+            return --n;
         }
     }
     class Bear : Monster
     {
 
-        public int getMonster(int n)
+        public override int getMonster(int n)
         {
             Console.WriteLine("Oh no, it's a BEAR! Hide and hold your breath(you stay one turn in your coordinates. Bear go to 1 point UP) ");
             xm++;
@@ -290,7 +290,7 @@ namespace _2._8.GAME
                     }
                     else if (((a.y + 1) == (rock.yo))&&((a.x) == (rock.xo)))
                     {
-                        tree.getStuck();
+                        rock.getStuck();
                     }
                     else a.goUp();
                 }
@@ -302,7 +302,7 @@ namespace _2._8.GAME
                     }
                     else if (((a.y - 1) == (rock.yo))&&((a.x) == (rock.xo)))
                     {
-                        tree.getStuck();
+                        rock.getStuck();
                     }
                     else a.goDown();
                 }
@@ -314,7 +314,7 @@ namespace _2._8.GAME
                     }
                     else if (((a.x - 1) == (rock.xo))&& ((a.y) == (rock.yo)))
                     {
-                        tree.getStuck();
+                        rock.getStuck();
                     }
                     else a.goLeft();
                 }
@@ -326,7 +326,7 @@ namespace _2._8.GAME
                     }
                     else if (((a.x + 1) == (rock.xo))&&((a.x + 1) == (tree.xo)))
                     {
-                        tree.getStuck();
+                        rock.getStuck();
                     }
                     else a.goRight();
                 }
@@ -344,7 +344,7 @@ namespace _2._8.GAME
                 }
                 if ((a.x == apple.xb) && (a.y == apple.yb))
                 {
-                    cherry.getBonus(life);
+                    apple.getBonus(life);
                 }
                 n++;
                 Console.WriteLine("You here - [{0},{1}] \n Game lasts for {2} turns, you have {3} debaff breakes", a.x, a.y, n, life);
