@@ -1,0 +1,11 @@
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.8.GAME\2.8.GAME\bin\Debug\netcoreapp2.1\2.8.GAME.deps.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.8.GAME\2.8.GAME\bin\Debug\netcoreapp2.1\2.8.GAME.runtimeconfig.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.8.GAME\2.8.GAME\bin\Debug\netcoreapp2.1\2.8.GAME.runtimeconfig.dev.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.8.GAME\2.8.GAME\bin\Debug\netcoreapp2.1\2.8.GAME.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.8.GAME\2.8.GAME\bin\Debug\netcoreapp2.1\2.8.GAME.pdb
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.8.GAME\2.8.GAME\obj\Debug\netcoreapp2.1\2.8.GAME.csprojAssemblyReference.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.8.GAME\2.8.GAME\obj\Debug\netcoreapp2.1\2.8.GAME.csproj.CoreCompileInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.8.GAME\2.8.GAME\obj\Debug\netcoreapp2.1\2.8.GAME.AssemblyInfoInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.8.GAME\2.8.GAME\obj\Debug\netcoreapp2.1\2.8.GAME.AssemblyInfo.cs
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.8.GAME\2.8.GAME\obj\Debug\netcoreapp2.1\2.8.GAME.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\2_lab\2.8.GAME\2.8.GAME\obj\Debug\netcoreapp2.1\2.8.GAME.pdb
