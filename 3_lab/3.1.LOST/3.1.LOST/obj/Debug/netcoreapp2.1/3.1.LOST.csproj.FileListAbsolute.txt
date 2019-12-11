@@ -1,0 +1,11 @@
+C:\Users\keyse\OneDrive\Документы\xt_net_web\3_lab\3.1.LOST\3.1.LOST\obj\Debug\netcoreapp2.1\3.1.LOST.csprojAssemblyReference.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\3_lab\3.1.LOST\3.1.LOST\obj\Debug\netcoreapp2.1\3.1.LOST.csproj.CoreCompileInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\3_lab\3.1.LOST\3.1.LOST\obj\Debug\netcoreapp2.1\3.1.LOST.AssemblyInfoInputs.cache
+C:\Users\keyse\OneDrive\Документы\xt_net_web\3_lab\3.1.LOST\3.1.LOST\obj\Debug\netcoreapp2.1\3.1.LOST.AssemblyInfo.cs
+C:\Users\keyse\OneDrive\Документы\xt_net_web\3_lab\3.1.LOST\3.1.LOST\bin\Debug\netcoreapp2.1\3.1.LOST.deps.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\3_lab\3.1.LOST\3.1.LOST\bin\Debug\netcoreapp2.1\3.1.LOST.runtimeconfig.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\3_lab\3.1.LOST\3.1.LOST\bin\Debug\netcoreapp2.1\3.1.LOST.runtimeconfig.dev.json
+C:\Users\keyse\OneDrive\Документы\xt_net_web\3_lab\3.1.LOST\3.1.LOST\bin\Debug\netcoreapp2.1\3.1.LOST.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\3_lab\3.1.LOST\3.1.LOST\bin\Debug\netcoreapp2.1\3.1.LOST.pdb
+C:\Users\keyse\OneDrive\Документы\xt_net_web\3_lab\3.1.LOST\3.1.LOST\obj\Debug\netcoreapp2.1\3.1.LOST.dll
+C:\Users\keyse\OneDrive\Документы\xt_net_web\3_lab\3.1.LOST\3.1.LOST\obj\Debug\netcoreapp2.1\3.1.LOST.pdb
