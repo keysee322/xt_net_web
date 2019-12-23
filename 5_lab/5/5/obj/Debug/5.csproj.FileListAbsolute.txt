@@ -1,0 +1,9 @@
+C:\Users\keyse\Documents\xt_net_web\5_lab\5\5\obj\Debug\5.csprojAssemblyReference.cache
+C:\Users\keyse\Documents\xt_net_web\5_lab\5\5\bin\Debug\Task05.exe.config
+C:\Users\keyse\Documents\xt_net_web\5_lab\5\5\bin\Debug\Task05.exe
+C:\Users\keyse\Documents\xt_net_web\5_lab\5\5\bin\Debug\Task05.pdb
+C:\Users\keyse\Documents\xt_net_web\5_lab\5\5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\keyse\Documents\xt_net_web\5_lab\5\5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\keyse\Documents\xt_net_web\5_lab\5\5\obj\Debug\5.csproj.CopyComplete
+C:\Users\keyse\Documents\xt_net_web\5_lab\5\5\obj\Debug\Task05.exe
+C:\Users\keyse\Documents\xt_net_web\5_lab\5\5\obj\Debug\Task05.pdb
